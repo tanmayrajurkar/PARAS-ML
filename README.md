@@ -91,5 +91,3 @@ Check out the live demo here: [Live Demo](https://drive.google.com/file/d/1wX-IE
 This project is licensed under the MIT License.
 
 ---
-
-For further inquiries, contact us at [your-email@paras.com](mailto:your-email@paras.com).
