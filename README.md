@@ -1,4 +1,3 @@
-
 # Paras ML Models
 
 ## Overview
@@ -80,6 +79,9 @@ Each model is structured as a separate module. To run a specific model, use the 
 python vehicle_detection.py
 ```
 For real-time deployment, integrate the models into the main Paras system using APIs or microservices.
+
+## Live Demo
+Check out the live demo here: [Live Demo](https://drive.google.com/file/d/1wX-IE_uASCK0FSwwlkYFGm_ZgvDI3HLo/view?usp=sharing)
 
 ## Contributors
 - **Prasanna Pal** (CTO) - ML development and optimization
